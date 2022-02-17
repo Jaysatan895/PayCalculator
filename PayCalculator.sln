@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayCalculator", "PayCalculator\PayCalculator.csproj", "{C8A22BBE-FE45-45C2-A65E-C61B16DE8BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A22BBE-FE45-45C2-A65E-C61B16DE8BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A22BBE-FE45-45C2-A65E-C61B16DE8BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A22BBE-FE45-45C2-A65E-C61B16DE8BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A22BBE-FE45-45C2-A65E-C61B16DE8BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF48B46-DEC9-41BC-A917-1E41BF3C688F}
+	EndGlobalSection
+EndGlobal
